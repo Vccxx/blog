@@ -1,0 +1,36 @@
+# Site settings
+title: H4cKL0v3r’s Blog
+subtitle: hacking is fun :)
+email: vccxx@hit.edu.cn
+description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+baseurl: "/vccxx.github.io" # the subpath of your site, e.g. /blog
+url: "https://vccxx.github.com" # the base hostname & protocol for your site
+author:
+street_address: Paradise 65536
+city: Nashville
+state: TN
+zip_code: 55555
+country: China
+phone: (716) 555-5555
+
+# Homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 6
+
+# Social settings
+500px_url:
+facebook_url:
+github_url:
+gitlab_url: https://gitlab.com/u/andrewbanchich
+googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+instagram_url: https://instagram.com
+linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/andrewbanchich
+
+# Build settings
+markdown: kramdown
+
+sass:
+  style: compressed
